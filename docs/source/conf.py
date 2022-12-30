@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'pyzippy'
+copyright = '2022, Ak1ve'
+author = 'Ak1ve'
 
 release = '0.1'
 version = '0.1.0'
